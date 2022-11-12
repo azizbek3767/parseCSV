@@ -1,0 +1,11 @@
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\bin\Debug\ParseCSVFile.exe.config
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\bin\Debug\ParseCSVFile.exe
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\bin\Debug\ParseCSVFile.pdb
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\obj\Debug\ParseCSVFile.csproj.AssemblyReference.cache
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\obj\Debug\ParseCSVFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\obj\Debug\ParseCSVFile.csproj.CoreCompileInputs.cache
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\obj\Debug\ParseCSVFile.exe
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\obj\Debug\ParseCSVFile.pdb
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\bin\Debug\log4net.dll
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\bin\Debug\log4net.xml
+C:\Users\Azizbek\source\repos\ParseCSVFile\ParseCSVFile\obj\Debug\ParseCSVFile.csproj.CopyComplete
